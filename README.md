@@ -1,7 +1,7 @@
 # VampireSurvivalLike
 
-https://www.youtube.com/watch?v=MmW166cHj54&list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjF6i3x
+플레이 영상
+https://github.com/DragonT-iger/VampireSurvivalLike/assets/87232690/afd083cb-2859-404c-be69-2531378b4982
 
-골드메탈님의 뱀서라이크 튜토리얼을 바탕으로 대부분 카피후
+다운로드 apk
 
-apk 빌드한 파일까지 업로드
